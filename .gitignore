@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+appsettings.Development.json
+
+# EF Core LocalDB files, if any get generated locally
+*.mdf
+*.ldf
