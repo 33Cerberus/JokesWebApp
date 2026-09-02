@@ -45,7 +45,3 @@ Views/         Razor views
 Data/          EF Core DbContext and migrations
 Areas/Identity/ Authentication pages
 ```
-
----
-
-*This README was generated with the help of Claude.*
